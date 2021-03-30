@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIShopBridge", "WebAPIShopBridge\WebAPIShopBridge.csproj", "{E2FE71F1-72F7-4762-A34A-3080475CDF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIShopBridge.Tests", "WebAPIShopBridge.Tests\WebAPIShopBridge.Tests.csproj", "{66B710E4-435F-4EF2-A9BA-019BD4B8FA73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBridge", "ShopBridge\ShopBridge.csproj", "{ADF025C8-4E33-45A8-9218-47E47EF3C27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2FE71F1-72F7-4762-A34A-3080475CDF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FE71F1-72F7-4762-A34A-3080475CDF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FE71F1-72F7-4762-A34A-3080475CDF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FE71F1-72F7-4762-A34A-3080475CDF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B710E4-435F-4EF2-A9BA-019BD4B8FA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B710E4-435F-4EF2-A9BA-019BD4B8FA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B710E4-435F-4EF2-A9BA-019BD4B8FA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B710E4-435F-4EF2-A9BA-019BD4B8FA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF025C8-4E33-45A8-9218-47E47EF3C27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF025C8-4E33-45A8-9218-47E47EF3C27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF025C8-4E33-45A8-9218-47E47EF3C27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF025C8-4E33-45A8-9218-47E47EF3C27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
